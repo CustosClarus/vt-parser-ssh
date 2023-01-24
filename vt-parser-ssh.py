@@ -19,7 +19,7 @@ out_json= {"providers": []}
 
 while i < len(unique_ips):
 
-    furl = url + strm r(unique_ips[i])
+    furl = url + str(unique_ips[i])
     response = requests.get(furl, headers=headers)
 
     data_ = response.json()
