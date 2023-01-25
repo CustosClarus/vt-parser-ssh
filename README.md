@@ -243,6 +243,6 @@ Make sure you have replaced the API key in code over here
       "score": "['clean']"
     }
   ]
-}```
+}
 
 
