@@ -12,7 +12,7 @@ You can trying running the script using python terminal or the terminal
 
 `python3 .\vr-parser-ssh.py`
 
-#NOTE Make sure you have ssh logs with you, for sample you can try downloading sample ![SSH](https://raw.githubusercontent.com/elastic/examples/master/Machine%20Learning/Security%20Analytics%20Recipes/suspicious_login_activity/data/auth.log)
+#NOTE Make sure you have ssh logs with you, for sample you can try downloading sample [SSH](https://raw.githubusercontent.com/elastic/examples/master/Machine%20Learning/Security%20Analytics%20Recipes/suspicious_login_activity/data/auth.log)
 
 Make sure you have replaced the API key in code over here
 
