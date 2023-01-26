@@ -6,7 +6,7 @@ This is a small but useful script that allow user to use the nix* ssh logs for I
 
 # Use
 
-The code is compiled using ![Pycharm](https://www.jetbrains.com/pycharm/)
+The code is compiled using [Pycharm](https://www.jetbrains.com/pycharm/)
 
 You can trying running the script using python terminal or the terminal
 
